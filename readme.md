@@ -1,4 +1,6 @@
-# Android TV on PC - Tutorial Made by ddosintruders - Support me on [Ko-Fi](https://ko-fi.com/ddosintruders)
+# Android TV on PC - Tutorial Made by ddosintruders
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
 
 This project's base items and steps are provided by TulioDomingos and ISO files are provided by hmtheboy154
 
@@ -54,4 +56,4 @@ You should have a functional Android TV on a USB drive.
 4.  If you need Android TV installed directly on your harddisk, be prepared. You won't utilise the full storage if you have 256GB or more. Best to stick with a USB Flah Drive or an external SSD until a solution to Note 1 is developed.
 
 
-## Support me on [Ko-Fi](https://ko-fi.com/ddosintruders)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
