@@ -1,6 +1,13 @@
-# Android TV on PC - Tutorial Made by ddosintruders
+<p align="center">
+  <img src="logo/androidtvonpclogo.png" alt="AndroidTV on PC logo" width="300">
+</p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
+<div align="center">
+  <h1>Android TV on PC</h1>
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
+  
+</div>
 
 This project's base items and steps are provided by TulioDomingos and ISO files are provided by hmtheboy154
 
