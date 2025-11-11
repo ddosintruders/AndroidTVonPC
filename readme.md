@@ -80,4 +80,6 @@ This will overwrite the old `system.sfs` file with the one you got from the new 
 
 5.  If you need Android TV installed directly on your harddisk, be prepared. You won't utilise the full storage if you have 256GB or more. Best to stick with a USB Flah Drive or an external SSD until a solution to Note 1 is developed.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
+<div align="center">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51O7J3E)
+</div>
