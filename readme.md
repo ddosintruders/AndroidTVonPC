@@ -15,7 +15,7 @@ This project's base items and steps are provided by TulioDomingos and ISO files 
 >The following steps will result in formatting your storage devices.
 >It is recommended to do a backup of your data before attempting the following steps.
 
->[!INFO]
+>[!NOTE]
 >This tutorial in the README will soon be removed as I am shifting to a proper documentation site.
 >It will cover more information that what this lacks.
 
