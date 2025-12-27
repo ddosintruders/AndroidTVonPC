@@ -1,1 +1,0 @@
-GitHub Pages and Documentation site live here.
